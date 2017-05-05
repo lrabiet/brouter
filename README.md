@@ -1,4 +1,4 @@
-brouter
+BRouter
 =======
 
 BRouter is a configurable OSM offline router with elevation awareness, Java + Android. Designed to be multi-modal with a particular emphasis on bicycle routing.
